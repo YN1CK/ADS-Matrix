@@ -30,7 +30,7 @@ public class Matrix {
         return returnMatrix;
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Matrix a = new Matrix(5);
         Matrix b = new Matrix(5);
         Matrix c;
@@ -61,5 +61,5 @@ public class Matrix {
             System.out.println();
         }
 
-    }
+    }*/
 }
